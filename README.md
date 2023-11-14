@@ -120,7 +120,7 @@ def q_learning(env, gamma=1.0, init_alpha=0.5,
 
 ### STATE VALUE FUNCTION OF Q-LEARNING METHOD:
 
-![Uploading image.png…]()
+![image](https://github.com/Evangelin-Ruth/q-learning/assets/94219798/c61404e1-92d4-43b5-a7f9-3e3527f69eb4)
 
 
 ## RESULT:
